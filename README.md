@@ -58,8 +58,8 @@ http://localhost/PumpIron-Site/index.php
 
 ## 📝 Notes
 
+- This work was developed in the BSc in Computer Science at the University of Madeira during an Erasmus period at the University of Maribor.
 - This project was developed as a sequence of weekly Web Development assignments and later brought together into one gym-themed website.
 - It combines informational pages with interactive database-backed flows for payments and help messages.
 - The payment and help sections use a confirmation step before saving data, reinforcing form handling and multi-page interaction patterns.
 - Local execution requires creating the `pumpiron` database and the two tables used by the PHP scripts.
-- This work was developed in the BSc in Computer Science at the University of Madeira during an Erasmus period at the University of Maribor.
